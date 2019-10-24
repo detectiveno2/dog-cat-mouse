@@ -8,4 +8,4 @@ dog1.sayHi();
 
 dog1.eatCat(cat1);
 
-console.log(dog1);
+
