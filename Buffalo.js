@@ -8,6 +8,8 @@ Buffalo.prototype.sayHi = function() {
 
 Buffalo.prototype.jump = function() {
   console.log("Jump jump jump");
+Buffalo.prototype.run = function() {
+  console.log("Run run run run");
 };
 
 module.exports = Buffalo;
