@@ -18,4 +18,4 @@ Buffalo.prototype.sleep = function() {
   console.log('Zzzz.....');
 }
 
-module.exports = Buffalo;
+module.exports = Buffalo();
