@@ -14,6 +14,8 @@ Buffalo.prototype.run = function() {
 
 Buffalo.prototype.eat = function() {
   console.log('eat eat eat');
+Buffalo.prototype.sleep = function() {
+  console.log('Zzzz.....');
 }
 
 module.exports = Buffalo;
